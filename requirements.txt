@@ -1,0 +1,6 @@
+Flask
+numpy
+pydicom
+python-gdcm
+pillow
+pylibjpeg
